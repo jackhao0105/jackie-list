@@ -1,0 +1,3 @@
+This is jack's plan...
+This is the first step for the big ding that I will build
+A Social Networking !

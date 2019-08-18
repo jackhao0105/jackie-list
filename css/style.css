@@ -1,0 +1,15 @@
+.strike-through { text-decoration: line-through; }
+
+#list{ font-size: 15px; }
+
+.color{
+	font-size: : 100px;
+}
+
+.sunday		{ color: #FF4500; }
+.monday		{ color: #00FF7F; }
+.tuesday	{ color: #DC143C; }
+.wednesday	{ color: #DA70D6; }
+.thursday	{ color: #1E90FF; }
+.friday		{ color: #008B8B; }
+.saturday	{ color: #8B008B; }
